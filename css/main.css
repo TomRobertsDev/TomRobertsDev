@@ -1,0 +1,44 @@
+/*------------------*\
+  Base
+\*------------------*/
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+  background: #f4f7f6;
+}
+
+html,
+body {
+  width: 100%;
+}
+
+body {
+  min-height: 100%;
+  padding: 2.5rem;
+  display: flex;
+  font-size: 1.8rem;
+  line-height: 1.45;
+  color: #000;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  flex: 1;
+}
+
+/*------------------*\
+  Typography
+\*------------------*/
+
+
+/*------------------*\
+
+\*------------------*/
