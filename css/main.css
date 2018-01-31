@@ -31,12 +31,15 @@ body {
 }
 
 main {
+  max-width: 1024px;
+  margin: 5rem auto;
   flex: 1;
 }
 
 /*------------------*\
   Typography
 \*------------------*/
+
 
 
 /*------------------*\
