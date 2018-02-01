@@ -39,9 +39,12 @@ main {
 }
 
 #services section {
+  min-height: 75vh;
   width: 50%;
-  text-align: center;
   padding: 2.5rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  text-align: center;
+  
 }
 
 /*------------------*\
