@@ -13,7 +13,7 @@
 html {
   box-sizing: border-box;
   font-size: 62.5%;
-  background: #DAE2D9;
+  background: #fff;
   padding: 2.5rem;
 }
 
@@ -30,7 +30,7 @@ body {
   display: flex;
   font-size: 2.25rem;
   line-height: 1.45;
-  background: #fff;
+  background: #DAE2D9;
   color: #000;
 }
 
