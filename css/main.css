@@ -2,10 +2,19 @@
   Base
 \*------------------*/
 
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
 html {
   box-sizing: border-box;
   font-size: 62.5%;
   background: #DAE2D9;
+  padding: 2.5rem;
 }
 
 /* #624353 */
@@ -17,20 +26,15 @@ body {
 
 body {
   min-height: 100%;
-  padding: 2.5rem;
+  width: 100%;
   display: flex;
   font-size: 2.25rem;
   line-height: 1.45;
+  background: #fff;
   color: #000;
 }
 
-*,
-*:before,
-*:after {
-  box-sizing: inherit;
-  margin: 0;
-  padding: 0;
-}
+
 
 main {
   max-width: 1024px;
