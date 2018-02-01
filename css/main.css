@@ -38,6 +38,12 @@ main {
   flex: 1;
 }
 
+#services section {
+  width: 50%;
+  text-align: center;
+  padding: 2.5rem;
+}
+
 /*------------------*\
   Typography
 \*------------------*/
