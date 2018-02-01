@@ -56,3 +56,14 @@ main {
 /*------------------*\
 
 \*------------------*/
+
+.contact-overlay {
+  position: fixed;
+  z-index: 1000;
+  bottom: 0;
+  right: 0;
+  height: 10rem;
+  width: 10rem;
+  background: #111;
+  border-left-radius: 50%;
+}
